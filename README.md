@@ -36,19 +36,12 @@ This repository contains the **Road Accident Analysis Dashboard**, which visuali
 - Add **predictive analytics** for forecasting accident trends.
 - Enable **downloadable reports** directly from the dashboard.
 
-## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributions
 Contributions are welcome! Here's how you can help:
 - Submit a pull request for feature enhancements or fixes.
 - Open an issue to report bugs or suggest ideas for improvement.
 
 ## 🌟 Acknowledgments
-- Thanks to [Data Source Provider] for the dataset.
 - Inspiration from the data visualization and analytics community for best practices and design ideas.
 
----
-
-**Feel free to fork this repository, explore the dashboard, and suggest improvements. Happy analyzing!**
 
